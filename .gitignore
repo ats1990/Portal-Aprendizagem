@@ -1,0 +1,10 @@
+# Ignorar arquivos de configuração e do sistema
+.env
+storage/
+vendor/
+
+# Ignorar arquivos do sistema operacional
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+    "name": "sodi-prom/projeto-ong",
+    "description": "Plataforma para Gerenciar Certificadora de Aprendizagem",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "SodiProm\\ProjetoOng\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anderson Trajano de Souza"
+        }
+    ]
+}
